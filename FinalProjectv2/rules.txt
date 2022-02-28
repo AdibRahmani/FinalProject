@@ -1,0 +1,2 @@
+Customer,Insert / age,>,50 / send email
+Customer,Update / registrationDate,<,2012-or-phoneNumber,=,0 / send email-and-set field
